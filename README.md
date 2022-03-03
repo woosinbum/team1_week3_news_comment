@@ -1,5 +1,5 @@
 # week3-news-comment
-##순위
+## 순위
 3등
 <img width="642" alt="캡처" src="https://user-images.githubusercontent.com/82801470/156575411-7a04d042-e079-4c29-a602-301b5cace2cf.PNG">
 
