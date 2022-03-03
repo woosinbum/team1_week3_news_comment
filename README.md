@@ -12,4 +12,3 @@ nlp_eda 파일은 데이터 전처리를 할 때 썼던 코드입니다.
 baseline_koelectra_v3 파일은 config를 바꿔가며 bert 모델과 koelectra_v3 모델을 평가할 때 썼던 파일입니다.
 nlp_baseline_v3_normalized_bias,hate 파일은 hugginface 모델에 맞춰서 베이스라인 코드를 수정한 코드입니다.
 
-## 모
